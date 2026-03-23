@@ -27,7 +27,7 @@ Source repository: <https://github.com/xinrun0928/xinrun0928>
 -->
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Mr.zhang&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=Keep%20Coding%20 ｜ %20Keep%20Moving&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
 </p>
 <p align="center">
     <img width="800" src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=20&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page;%e6%ac%a2%e8%bf%8e%e6%9d%a5%e5%88%b0%e6%88%91%e7%9a%84+GitHub+%e4%b8%bb%e9%a1%b5" alt="Hello World" title="Hello World"/>
@@ -36,13 +36,14 @@ Source repository: <https://github.com/xinrun0928/xinrun0928>
 <p align="center">
     <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=java,py,js,ts,vue,html,css,idea,gitlab,linux,docker,kubernetes,rabbitmq,kafka,gmail&titles=true" alt="Skill Icons" title="Skill Icons">
 </p>
+
 <p align="center">
     <a href="https://github.com/xinrun0928"><img src="https://img.shields.io/badge/GitHub-xinrun0928-blue?logo=github" alt="GitHub" title="GitHub" /></a>
     <a href="https://gitee.com/xinrun"><img src="https://img.shields.io/badge/Gitee-xinrun-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
     <a href="https://wakatime.com/@xinrun0928"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" alt="Wakatime" title="Wakatime" /></a>
-    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <a href="https://github.com/xinrun0928"><img src="https://komarev.com/ghpvc/?username=xinrun0928&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
+
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Keep%20it%20simple,%20stupid&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
 </p>
